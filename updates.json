@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "addon@duyetex": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/duyetex-update/main/duyetex.xpi"
+        }
+      ]
+    }
+  }
+}
